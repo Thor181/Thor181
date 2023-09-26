@@ -1,6 +1,3 @@
 # Thor181
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thor181&show_icons=true&theme=radical)
-=======
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thor181&layout=compact)
 =======
